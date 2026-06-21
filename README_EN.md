@@ -1,4 +1,4 @@
-# Hello, I am Jeon Un-yeol 👋
+# Hello, I am Jeon Un-yeol
 
 I want to become a data engineer who solves real-world business problems using AI systems.
 
